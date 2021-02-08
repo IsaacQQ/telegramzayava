@@ -1,1 +1,1 @@
-web: gunicorn main.py:/reg
+web: gunicorn main.py
