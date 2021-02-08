@@ -1,1 +1,1 @@
-web: python telegramzayava/main.py
+worker: python main.py
