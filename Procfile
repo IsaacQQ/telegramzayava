@@ -1,1 +1,1 @@
-web: /help
+worker: python main.py
